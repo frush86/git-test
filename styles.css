@@ -11,6 +11,18 @@ h1 {
   border: solid;
 }
 
+.menu {
+  position: fixed;
+  width: 50%;
+}
+
+.buttons-menu {
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+  padding: 10px;
+  background-color: blueviolet;
+}
 .content {
   margin: auto;
   border: solid;
